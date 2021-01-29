@@ -6,6 +6,6 @@ This tool can do:
 
 and ... 
 
-i hope enjoy this tool
+i you hope enjoy this tool
 
 my insta : alimoio0

@@ -28,4 +28,5 @@ def whois():
 
     except:
         print("you have connection problem ! ")
+        input('')
     

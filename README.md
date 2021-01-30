@@ -8,7 +8,7 @@ and ...
 
 i you hope enjoy this tool
 
-<<some tools need vpn in iran>>
+(some tools need vpn in iran)
 
 
 ## PreView

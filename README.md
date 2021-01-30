@@ -46,7 +46,7 @@ Enter number :>>>
 
 # install 
 
-git clone https://github.com/AliIRMo/delf-v.1.git
+git clone https://github.com/AliIRMo/delf-v.1 or download it and open it folder with cmd and then : >>> 
 
 1 - pip install -r requirements.txt
 

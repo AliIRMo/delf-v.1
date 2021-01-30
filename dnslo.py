@@ -21,3 +21,4 @@ enter domain :>>>|
         print(re)
     except:
         print("you have connection problem ! ")
+        input('')

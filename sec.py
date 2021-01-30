@@ -28,3 +28,4 @@ def xss():
                     print("[-] This site is safe")
         except:
             print("You have connection problem !")
+            input('')

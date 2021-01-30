@@ -28,3 +28,4 @@ def ipfi():
         input('for exit press any key :> > >')
     except:
         print("you have connection problem ! ")
+        input('')

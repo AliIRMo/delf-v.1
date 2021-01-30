@@ -48,6 +48,7 @@ def req():
                     print("page not found ! ")
         except:
             print("you have connectio problem ! ")
+            input('')
 
 
     def post():
@@ -63,6 +64,7 @@ def req():
                 print(re1)
         except:
             print(" you have connection problem ! ")
+            input('')
     
 
     def http():
@@ -84,6 +86,7 @@ def req():
                 input("press enter ")
             except:
                 print("you have connection problem ! ")
+                input('')
 
 
 

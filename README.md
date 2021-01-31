@@ -8,8 +8,6 @@ and ...
 
 i you hope enjoy this tool
 
-(some tools need vpn in iran)
-
 
 ## PreView
 <pre>
@@ -30,13 +28,13 @@ time and date is :
 **  -------------------###                  **
 **  1-cmd_mode                              **
 **  -------------------###                  **
-**  2- developer                            **
+**  2-internet                              **
 **  -------------------###                  **
 **  3-customize                             **
 **  -------------------###                  **
 **  4-tools                                 **
 **  -------------------###                  **
-==============================================                                      
+==============================================                                       
 
 Enter number :>>> 
 
@@ -46,7 +44,7 @@ Enter number :>>>
 
 # install 
 
-git clone https://github.com/AliIRMo/delf-v.1 or download it and open it folder with cmd and then : >>> 
+git clone https://github.com/AliIRMo/delf-v.1.git
 
 1 - pip install -r requirements.txt
 

@@ -77,10 +77,13 @@ while True:
             net.req()
         if t2 == "4":
             who.whois()
+            input('')
         if t2 == "5":
             dnslo.dnsl()
+            input('')
         if t2 == "6":
             sec.xss()
+            input('')
 
 
 
